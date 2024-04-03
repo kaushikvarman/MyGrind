@@ -7,12 +7,12 @@ I’m Kaushik. I completed my masters in CS in may2023. Since then I’ve been w
 
 I used to spend most of the time applying for jobs. Probably I may have applied around 800+, but all I received was rejection mails. Still even after so many rejections I stay myself motivated.
 
-Currently I have started a grind series to show you guys my consistency and discipline. 
-<br> Where I : https://github.com/kaushikvarman/Grinding
-
-Solve at least one leetcode problem
-Up Skill myself in the data engineering domain
-End my day by solving complex SQL questions
+Currently I have started a grind series to show you guys my consistency and discipline 
+ : https://github.com/kaushikvarman/Grinding <br>
+Where I <br>
+:one: Solve at least one leetcode problem <br>
+:two: Up Skill myself in the data engineering domain <br>
+:three: End my day by solving complex SQL questions <br>
 
 My Portfolio:
 
