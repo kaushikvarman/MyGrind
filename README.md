@@ -3,7 +3,7 @@
 Hi There,
 
 
-I’m Kaushik. I completed my masters in CS in may2023. Since then I’ve been working very hard to get a full time job. Built a complete end-end ecommerce website. Learned AWS Cloud and completed a certification. Started learning SQL and solved 400+ problems. Started learning SnowFlake but didn’t have enough money to attempt certification. Started learning Azure Databricks with PySpark. Completed learning spark theory. Started learning data modeling. 
+I’m Kaushik. I completed my masters in CS in may2023. Since then I’ve been working very hard to get a job. Built a complete end-end ecommerce website. Learned AWS Cloud and completed a certification. Started learning SQL and solved 400+ problems. Started learning SnowFlake but didn’t have enough money to attempt certification. Started learning Azure Databricks with PySpark. Completed learning spark theory. Started learning data modeling. 
 
 I used to spend most of the time applying for jobs. Probably I may have applied around 800+, but all I received was rejection mails. Still even after so many rejections I stay myself motivated.
 
