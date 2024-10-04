@@ -18,10 +18,19 @@ My Portfolio:
 
 :one: Leetcode : https://leetcode.com/OnlyGrind/ <br>
 :two: Hackerrank : https://www.hackerrank.com/profile/kaushikvarman <br>
-:three: Github : https://github.com/kaushikvarman    
+:three: Github : https://github.com/kaushikvarman 
+
+Accomplishments:
+
+:one: Rated 5 Star Gold on HackerRank SQL. <br>
+:two: Consistently solved problems(Python) on LeetCode for 200+Days.<br>
+:three: AWS Certified Cloud Practitioner.<br>
+:four: AWS Data Engineer Associate (DEA-C01). <br>
+:five: 2x DataCamp Certified Data Engineer. <br>
+:six: 2x HackerRank SQL Certified. <br>
+:seven: Built complete End - End Ecommerce website using Django.
 
 Bleary-eyed but determined, Kaushik woke up before dawn, another day spent pounding the pavement. Every rejection was a stepping stone, every interview a hard-won victory.
-
 
 Sincerely, <br>
 Kaushik
