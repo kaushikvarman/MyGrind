@@ -30,6 +30,9 @@ Accomplishments:
 :six: 2x HackerRank SQL Certified. <br>
 :seven: Built complete End - End Ecommerce website using Django.
 
+Sample SQL Solving Skills:
+https://www.youtube.com/watch?v=vWfSYdMk-fo
+
 Bleary-eyed but determined, Kaushik woke up before dawn, another day spent pounding the pavement. Every rejection was a stepping stone, every interview a hard-won victory.
 
 Sincerely, <br>
